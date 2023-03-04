@@ -1,2 +1,3 @@
 Hello this is a demo file.
 This file has been changed by branch 2
+This file introduced new change from branch 2
