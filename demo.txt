@@ -3,3 +3,5 @@ Hello this is a demo file.
 updated the same file from branch 1
 
 This file has been changed by branch 2
+
+New file change from branch 1
